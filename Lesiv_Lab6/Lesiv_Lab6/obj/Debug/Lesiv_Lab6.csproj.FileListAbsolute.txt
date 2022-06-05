@@ -1,0 +1,10 @@
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\bin\Debug\Lesiv_Lab6.exe.config
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\bin\Debug\Lesiv_Lab6.exe
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\bin\Debug\Lesiv_Lab6.pdb
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.csprojAssemblyReference.cache
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.Form1.resources
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.Properties.Resources.resources
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.csproj.GenerateResource.cache
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.exe
+C:\Users\Anastasia\source\repos\Lesiv_Lab6\Lesiv_Lab6\obj\Debug\Lesiv_Lab6.pdb
